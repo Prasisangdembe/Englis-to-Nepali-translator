@@ -196,7 +196,3 @@ bash scripts/deploy.sh
    - summary
    - test evidence
    - any migration/deployment notes
-
-## License
-
-Add your preferred license (MIT/Apache-2.0/etc.) for open-source usage.
